@@ -273,3 +273,13 @@ a {
 
 .cf {
   zoom: 1; }
+
+body {
+  background: #b0cff4; }
+
+header h1 {
+  text-align: center; }
+
+.logo {
+  max-width: 64px;
+  height: auto; }

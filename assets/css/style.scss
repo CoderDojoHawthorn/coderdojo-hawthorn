@@ -2,3 +2,13 @@
 ---
 
 @import 'jekyll-theme-hacker';
+body {
+            background: rgb(176, 207, 244);
+        }
+        header h1 {
+            text-align: center;
+        }
+        .logo {
+            max-width: 64px;
+            height: auto;
+        }
